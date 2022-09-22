@@ -1,10 +1,10 @@
 {
   "name": "Musicish",
   "version": "1.0.9",
-  "description": "Musicish is a discord music bot base in Kazagumo (Shoukaku)",
+  "description": "Musicish is a discord music bot.",
   "main": "src/index.js",
-  "repository": "https://github.com/brblacky/Musicish.git",
-  "author": "Blacky",
+  "repository": "https://github.com/Yash143220/musicish-",
+  "author": "Rider",
   "license": "ISC",
   "scripts": {
     "start": "node src/index.js",
@@ -19,8 +19,8 @@
     "discord",
     "musicbot"
   ],
-  "bugs": "https://github.com/brblacky/Musicish/issues",
-  "homepage": "https://github.com/brblacky/Musicish#readme",
+  "bugs": "https://github.com/Yash143220/musicish-/issues",
+  "homepage": "https://github.com/Yash143220/musicish-",
   "dependencies": {
     "chalk": "^4.1.2",
     "cpu-stat": "^2.0.1",
